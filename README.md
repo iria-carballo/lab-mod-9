@@ -3,10 +3,10 @@
 
 ## 9.1: Ticket de compra
 
-- (./9-1-ticket-compra)
+- [01 Ticket de compra](./9-1-ticket-compra)
 
 ## 9.2: Clave fuerte
 
-- (./9-2-clave-fuerte)
+- [02 Clave fuerte](./9-2-clave-fuerte)
 
 
