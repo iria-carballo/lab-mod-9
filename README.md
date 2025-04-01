@@ -5,8 +5,5 @@
 
 - [01 Ticket de compra](./9-1-ticket-compra)
 
-## 9.2: Clave fuerte
-
-- [02 Clave fuerte](./9-2-clave-fuerte)
 
 
