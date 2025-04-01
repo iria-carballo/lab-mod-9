@@ -5,5 +5,8 @@
 
 - [01 Ticket de compra](./9-1-ticket-compra)
 
+## 9.2: Validación de clave segura
+
+- [02 Validación de clave segura](./9-2-clave-fuerte)
 
 
